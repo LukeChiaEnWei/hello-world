@@ -1,2 +1,2 @@
 # hello-world
-Join another repository
+ Hi humans! I am Luke.
